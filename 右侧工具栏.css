@@ -134,9 +134,9 @@ transition: top 1s;
 }
 .toolbar-layer-weixin {
   
-  background-image: url('../二维码.png');
+  background-image: url('img/二维码.png');
   
 }
 .toolbar-layer-top {
-    background-image: url('../二维码.png');
+    background-image: url('img/二维码.png');
 }
